@@ -7,69 +7,69 @@
 ## Pages
 
 ### Home
-https://rivaa-8a11df7f.zappy5.app
+https://example.com
 Step into the world of Rivaa, where heritage meets modern elegance. Explore our upcoming collection of ethnic jewellery and festival-ready accessories. Join our waitlist today for exclusive early access.
 
 ### Brand Story
-https://rivaa-8a11df7f.zappy5.app/brand-story
+https://example.com/brand-story
 Dive into Rivaa&#39;s journey of crafting timeless ethnic jewellery. From intricate Kashmiri watches to bold bangles, discover the passion and tradition shaping every accessory. Be part of our story before we launch.
 
 ### Preview Gallery
-https://rivaa-8a11df7f.zappy5.app/preview-gallery
+https://example.com/preview-gallery
 Get an exclusive first look at Rivaa&#39;s preview gallery. Admire upcoming earrings, bangles, and Kashmiri watches designed to elevate your festive wardrobe. Save your favorites and stay tuned for the drop.
 
 ### Contact
-https://rivaa-8a11df7f.zappy5.app/contact
+https://example.com/contact
 Have questions or want VIP access to Rivaa&#39;s launch? Reach out today and be the first to experience our curated ethnic jewellery and accessories. We&#39;re ready to help you shine.
 
 ### Products
-https://rivaa-8a11df7f.zappy5.app/products
+https://example.com/products
 Our Products - Rivaa
 
 ### Cart
-https://rivaa-8a11df7f.zappy5.app/cart
+https://example.com/cart
 Your Cart
 
 ### Checkout
-https://rivaa-8a11df7f.zappy5.app/checkout
+https://example.com/checkout
 Checkout
 
 ### Login
-https://rivaa-8a11df7f.zappy5.app/login
+https://example.com/login
 Customer Login
 
 ### Account
-https://rivaa-8a11df7f.zappy5.app/account
+https://example.com/account
 My Account
 
 ### Order Success
-https://rivaa-8a11df7f.zappy5.app/order-success
+https://example.com/order-success
 Thank you for your order
 
 ### Product Detail
-https://rivaa-8a11df7f.zappy5.app/product/:slug
+https://example.com/product/:slug
 Product Details - Rivaa
 
 ### Category
-https://rivaa-8a11df7f.zappy5.app/category/:slug
+https://example.com/category/:slug
 Products - Rivaa
 
 ### Thank You | Rivaa
-https://rivaa-8a11df7f.zappy5.app/thank-you
+https://example.com/thank-you
 Rivaa - Thank You | Rivaa
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://rivaa-8a11df7f.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://rivaa-8a11df7f.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://rivaa-8a11df7f.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -98,8 +98,8 @@ Jewelry & Accessories
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://rivaa-8a11df7f.zappy5.app/sitemap.xml
-- Robots: https://rivaa-8a11df7f.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://rivaa-8a11df7f.zappy5.app/llms-full.txt
-- Products (JSON): https://rivaa-8a11df7f.zappy5.app/products.json
-- Products (Google Merchant RSS): https://rivaa-8a11df7f.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
